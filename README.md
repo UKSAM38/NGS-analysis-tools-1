@@ -5,12 +5,15 @@ This repository contains scripts for processing sequencing data to identify esca
 ## Workflow
 
 1. **Step 1: Cutadapt**
+
    - Removes primer sequences from paired-end reads.
 
 2. **Step 2: Trimmomatic**
+
    - Trims low-quality regions of the reads.
 
 3. **Step 3: BWA and SAMTools**
+
    - Aligns paired-end reads and generates sorted BAM files.
 
 4. **Step 4: GATK Analysis**
@@ -31,6 +34,11 @@ This repository contains scripts for processing sequencing data to identify esca
    ```bash
    git clone https://github.com/<your-username>/antibody-analysis-tools.git
    cd antibody-analysis-tools
+   ```
+
+# <<<<<<< HEAD
+
+> > > > > > > fac26634098b73ec824bd292e7cbb8ef8b45f76d
 
 ## License
 
