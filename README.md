@@ -1,4 +1,4 @@
-# Antibody Analysis Tools
+# NGS Analysis Tools
 
 This repository contains scripts for processing sequencing data to identify escape mutations in the receptor-binding domain (RBD).
 
